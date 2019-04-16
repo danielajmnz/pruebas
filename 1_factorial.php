@@ -1,4 +1,5 @@
 <?php
+error_reporting(0);
 function factorial($numero)
 {
     if($numero >= 2){
